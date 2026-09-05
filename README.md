@@ -10,7 +10,7 @@ I love diving into new tools and concepts and tend to learn fastest by building 
 
 ### I work with
 
-Python · SQL · Tableau · Power BI · Pandas · Machine Learning · Statistics
+Tableau · Power BI · SQL · Python · Pandas · Machine Learning · Statistics
 
 ### Currently exploring
 
