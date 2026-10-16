@@ -10,8 +10,8 @@ I love diving into new tools and concepts and tend to learn fastest by building 
 
 ### I work with
 
-Tableau · Power BI · SQL · Python · Pandas · Machine Learning · Statistics
+Python · Pandas · Machine Learning · Statistics · Tableau · Power BI · Microsoft Fabric · DAX · Data Modeling · SQL 
 
 ### Currently exploring
 
-Microsoft Fabric · DAX · Data Modeling · D3.js · JavaScript · React · Three.js
+D3.js · JavaScript · React · Three.js
