@@ -14,4 +14,4 @@ Python · Machine Learning · Statistics · Tableau · Power BI · Microsoft Fab
 
 ### Currently exploring
 
-D3.js · JavaScript · React · Three.js · HTML · CSS
+HTML · CSS · JavaScript · D3.js · React · Three.js
